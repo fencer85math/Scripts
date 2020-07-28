@@ -1,5 +1,6 @@
 # Fresh Start - starts all necessary processes as determined by a user
-# By Adrian Steffen# Desc: Start all necessary programs upon initial start of notebook.
+# By Adrian Steffen
+# Desc: Start all necessary programs upon initial start of notebook.
 #       Grouped into 4 categories:
 #       1) local processes
 #       2) Chrome applications (user preference)
